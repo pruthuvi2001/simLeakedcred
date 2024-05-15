@@ -1,0 +1,4 @@
+"AadClientId": "fb2c11d8-ef7e-4a64-a6e2-0a46f036a3c5",
+  "AadSecret": "24184b4d-e8d4-45ce-b16d-f921ad79a53b",
+  "AadTenantDomain": "eyepax.com",
+  "AadTenantId": "c7886144-869f-423d-a018-9158602dc467",
